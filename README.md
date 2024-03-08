@@ -1,4 +1,4 @@
-# DAPL24 GitHub Lab Repo
+# ENGM-204 Sp'24 GitHub Lab Repo
 Class Repository for the ENGM204 DAPL Labs
 
 
