@@ -10,7 +10,7 @@ In this lab, you will be working with all of these tools to manage your data and
 - Extend to deep learning models and read through complex PyTorch models.
 - Leverage Google Colab for cloud-based accelerated computing. (https://colab.research.google.com/)
 
-## Part 1 - Setting Google Colab
+## Part 1 - Setting Up Google Colab
 
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
 
