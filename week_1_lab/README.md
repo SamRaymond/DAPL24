@@ -5,14 +5,25 @@ In this class, and in your careers, being comfortable with command line interfac
 
 ### Learning Objectives
 In this lab, you will be working with all of these tools to manage your python programming and software development. By the end of this lab you will:
-- Be comfortable navigating through files and folders using the command line. 
-- Write simple python files, execute them, and update them from the command line. 
-- Create and manage code repositories using GitHub. 
+- Be comfortable navigating through files and folders using the command line.
+- Write simple python files, execute them, and update them from the command line.
+- Create and manage code repositories using GitHub.
 
 
-## Part 1 - Setting Up a new repo in GitHub
-
+## Part 1 - Setting Up GitHub, VSCode, and Python
+- Sign up for / log in to your GitHub account.
+- Ensure Python3 is installed on your machine.
+- Same for VSCode.
+- Read the `gitflow.md` file.
+- Install Git on your machine and add your username/password so you can push changes to your GitHub account.
+  
 ## Part 2 - Navigating the terminal
-
+- Read the `terminal.md` file
+- Clone this Repo to your machine.
+  
 ## Part 3 - Creating a new python file and runnning commands from the command line
-
+- Go to your github and create a new repo
+- Clone this empty repo to your machine
+- Copy over the `lab_task` folder
+- Solve the tasks in the python file
+- Commit and push the solution to your GitHub
