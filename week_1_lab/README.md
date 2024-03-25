@@ -16,7 +16,8 @@ In this lab, you will be working with all of these tools to manage your python p
 - Same for VSCode.
 - Read the `gitflow.md` file.
 - Install Git on your machine and add your username/password so you can push changes to your GitHub account.
-  
+- Install Homebrew on macOS, install the git cli (`brew install gh' and follow the steps) OR https://github.com/cli/cli/blob/trunk/docs/install_linux.md for Linux
+
 ## Part 2 - Navigating the terminal
 - Read the `terminal.md` file
 - Clone this Repo to your machine.
