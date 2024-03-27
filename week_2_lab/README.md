@@ -17,6 +17,8 @@ A few more basics are in the Setting_up_Colab file.
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
 We will begin with the lego dataset, that is not a "clean" dataset, it contains missing values,and duplicate values. We will go over some examples of how to get rid of duplicate values, and how best to fill in missing values.
 
+We will also go over a simple clustering example using the ML_Clustering_Example.
+
 
 
 ## Part 3 - Building a Linear/Random Forest Model with SciKit Learn
