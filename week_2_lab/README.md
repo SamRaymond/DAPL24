@@ -16,11 +16,11 @@ In this lab, you will be working with all of these tools to manage your data and
 A few more basics are in the Setting_up_Colab file.
 
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
-2.1
+- 2.1
 - Access the Data_Clean_up csv file. 
 - Upload the lego dataset. 
 The dataset has some missing values and some duplicate values. We go over some examples of how to manage both.We also use some simple machine learning tools such as the Naives Bayes Classifier to predict the values of certain missing variables.
-2.2
+- 2.2
 - Access the ML_Clustering_Updated file.
 Here, we use a random generator and then cluster the data.
 
