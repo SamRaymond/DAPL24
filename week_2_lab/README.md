@@ -17,10 +17,12 @@ A few more basics are in the Setting_up_Colab file.
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
 We will begin with the lego dataset, that is not a "clean" dataset, it contains missing values,and duplicate values. We will go over some examples of how to get rid of duplicate values, and how best to fill in missing values.
 
-We will also go over a simple clustering example using the ML_Clustering_Example.
-
+We will also go over a simple clustering example using the ML_Clustering_Updated file. Where we random data generator and then cluster the data.
 
 
 ## Part 3 - Building a Linear/Random Forest Model with SciKit Learn
+We go over an example of Random Forest, using the Simple_Random file. We access the iris dataset through scikit learn. 
 
 ## Part 4 - Deep Learning with PyTorch
+We go over a basic example of neural networks where we construct a percepton, that requires user's inputs. 
+Here we upload the iris dataset, and use it to build a neural network with Pytorch.
