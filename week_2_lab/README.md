@@ -15,9 +15,9 @@ Go to the google colab website (https://colab.research.google.com/) and sign in.
 A few more basics are in the Setting_up_Colab file.
 
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
-We will begin with the lego dataset, that is not a "clean" dataset, it contains missing values,and duplicate values. We will go over some examples of how to get rid of duplicate values, and how best to fill in missing values. We also use some simple machine learning tools such as the Naives Bayes Classifier to predict the values of certain variables.
+We will begin with the lego dataset, that is not a "clean" dataset, as it contains missing values, and duplicate values. We go over some examples of how to get rid of duplicate values, and how best to fill in missing values. We also use some simple machine learning tools such as the Naives Bayes Classifier to predict the values of certain missing variables.
 
-We will also go over a simple clustering example using the ML_Clustering_Updated file. Where we random data generator and then cluster the data.
+We also go over a simple clustering example using the ML_Clustering_Updated file. Here, we use a random generator and then cluster the data.
 
 
 ## Part 3 - Building a Linear/Random Forest Model with SciKit Learn
