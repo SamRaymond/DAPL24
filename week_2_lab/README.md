@@ -15,6 +15,9 @@ Go to the google colab website (https://colab.research.google.com/) and sign in.
 A few more basics are in the Setting_up_Colab file.
 
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
+We will begin with the lego dataset, that is not a "clean" dataset, it contains missing values,and duplicate values. We will go over some examples of how to get rid of duplicate values, and how best to fill in missing values.
+
+
 
 ## Part 3 - Building a Linear/Random Forest Model with SciKit Learn
 
