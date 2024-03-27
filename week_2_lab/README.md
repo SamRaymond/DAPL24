@@ -11,6 +11,8 @@ In this lab, you will be working with all of these tools to manage your data and
 - Leverage Google Colab for cloud-based accelerated computing. (https://colab.research.google.com/)
 
 ## Part 1 - Setting Up Google Colab
+Go to the google colab website (https://colab.research.google.com/) and sign in. Then click on File --> New Notebook.
+A few more basics are in the Setting_up_Colab file.
 
 ## Part 2 - Downloading Cleaning, and Processing a Dataset with Pandas
 
